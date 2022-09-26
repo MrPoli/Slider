@@ -1,6 +1,6 @@
 let arrowLeft = document.querySelector("#arrow-left");
 let arrowRight = document.querySelector("#arrow-right");
-let photo = document.querySelector("#photo");
+let photo = document.querySelector("#slider");
 let divDiv = document.querySelector("div+div");
 let photosArray = new Array(
   "https://image.ceneostatic.pl/data/products/57402217/i-hecht-motor-zielony-54501.jpg",
